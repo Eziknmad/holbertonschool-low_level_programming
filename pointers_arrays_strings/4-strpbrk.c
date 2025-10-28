@@ -2,7 +2,7 @@
 
 /**
 * _strpbrk - search a string for any of the set of  bytes
-* @: the string to be scanned
+* @s: the string to be scanned
 * @accept: the string containing  the characters to math
 *
 * Return: pointer to the first occurance in the s of any
