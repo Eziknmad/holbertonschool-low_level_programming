@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - Entry point. Copies the content of one file to another.
+ * main - Copies file content using copy_file.
  * @argc: Argument count
- * @argv: Argument vector (array of strings)
+ * @argv: Argument vector
  *
- * Return: 0 on success, exits with codes on failure.
+ * Return: 0 on success, or exits on failure.
  */
 int main(int argc, char *argv[])
 {
